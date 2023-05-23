@@ -6,6 +6,7 @@ test_project_sandbox.ipynb
 .ipynb_checkpoints/
 __pycache__
 catboost_info
+test_acquire_stuff.ipynb
 *.csv
 *.mov
 *.xlsx
